@@ -185,9 +185,16 @@ Review Social Media campaign targeting efficiency.
 | Resource | Location |
 |----------|----------|
 | Power BI Dashboard | `dashboard/marketing_dashboard.pbix` |
-| Dataset | `data/` |
+| Dataset | Available via Google drive (link below) |
 | EDA Notebook | `notebooks/eda_analysis.ipynb` |
 | Data Cleaning Script | `scripts/data_cleaning.py` |
+
+## 📁 Dataset Access
+
+The dataset used in this project exceeds GitHub’s file size limit (100 MB).  
+It can be downloaded here:
+
+https://drive.google.com/drive/folders/1NzGhKJtBAPwroyMJbrRdPCcGxk-hY8Ie?usp=sharing
 
 ---
 
