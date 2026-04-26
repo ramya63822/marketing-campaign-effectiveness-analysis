@@ -94,8 +94,7 @@ Defined business questions and KPI success criteria before analysis.
 - Prepared dataset for analysis
 
 Script available here: 
-scripts/Cleaning.py
-
+scripts/data_cleaning.py
 
 ### Phase 3 — Exploratory Data Analysis (Python)
 Performed dataset exploration to identify performance patterns across:
