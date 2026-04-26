@@ -201,7 +201,7 @@ https://drive.google.com/drive/folders/1NzGhKJtBAPwroyMJbrRdPCcGxk-hY8Ie?usp=sha
 ## ▶️ How to Run This Project
 
 Clone the repository:
-git clone https://github.com/yourusername/marketing-campaign-effectiveness-analysis.git
+git clone https://github.com/ramya63822/marketing-campaign-effectiveness-analysis.git
 
 Install dependencies:
 pip install pandas matplotlib seaborn jupyter
