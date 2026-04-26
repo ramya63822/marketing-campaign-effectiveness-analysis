@@ -92,9 +92,9 @@ Defined business questions and KPI success criteria before analysis.
 - Standardized column names
 - Corrected data types
 - Prepared dataset for analysis
-
-Script available here: 
-scripts/data_cleaning.py
+ 
+Script available here:
+[`scripts/data_cleaning.py`](scripts/data_cleaning.py)
 
 ### Phase 3 — Exploratory Data Analysis (Python)
 Performed dataset exploration to identify performance patterns across:
@@ -105,7 +105,7 @@ Performed dataset exploration to identify performance patterns across:
 - time trends
 
 Notebook available here:
-notebooks/eda_analysis.ipynb
+[`notebooks/eda_analysis.ipynb`](notebooks/eda_analysis.ipynb)
 
 
 ### Phase 4 — Dashboard Development (Power BI)
@@ -122,7 +122,7 @@ Built an interactive analytics dashboard containing:
 - Interactive slicers for filtering
 
 Dashboard file:
-dashboard/marketing_dashboard.pbix
+[`dashboard/marketing_dashboard.pbix`](dashboard/marketing_dashboard.pbix)
 
 
 ---
