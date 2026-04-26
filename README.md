@@ -122,8 +122,14 @@ Built an interactive analytics dashboard containing:
 - Interactive slicers for filtering
 
 Dashboard file:
-[`dashboard/marketing_dashboard.pbix`](dashboard/marketing_dashboard.pbix)
+Google Drive link provided below
 
+## 📊 Dashboard Access
+
+The Power BI dashboard file exceeds GitHub’s preview limitations.
+Download the interactive dashboard here:
+
+https://drive.google.com/file/d/1x_yikxUDjoAFHfesZpjrPX-acbWw6N5d/view?usp=sharing
 
 ---
 
